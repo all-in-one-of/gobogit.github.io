@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GOBO</title>
-    <link>/tags/</link>
+    <link>http://gobo.tv/tags/</link>
     <description>Recent content in Tags on GOBO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gobo.tv/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cgi</title>
-      <link>/tags/cgi/</link>
+      <link>http://gobo.tv/tags/cgi/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cgi/</guid>
+      <guid>http://gobo.tv/tags/cgi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Libros</title>
-      <link>/tags/libros/</link>
+      <link>http://gobo.tv/tags/libros/</link>
       <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/libros/</guid>
+      <guid>http://gobo.tv/tags/libros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>/tags/personal/</link>
+      <link>http://gobo.tv/tags/personal/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/personal/</guid>
+      <guid>http://gobo.tv/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profesional</title>
-      <link>/tags/profesional/</link>
+      <link>http://gobo.tv/tags/profesional/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/profesional/</guid>
+      <guid>http://gobo.tv/tags/profesional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shot</title>
-      <link>/tags/shot/</link>
+      <link>http://gobo.tv/tags/shot/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/shot/</guid>
+      <guid>http://gobo.tv/tags/shot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>/tags/software/</link>
+      <link>http://gobo.tv/tags/software/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/software/</guid>
+      <guid>http://gobo.tv/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vfx</title>
-      <link>/tags/vfx/</link>
+      <link>http://gobo.tv/tags/vfx/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/vfx/</guid>
+      <guid>http://gobo.tv/tags/vfx/</guid>
       <description></description>
     </item>
     

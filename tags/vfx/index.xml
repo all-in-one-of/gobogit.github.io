@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vfx on GOBO</title>
-    <link>/tags/vfx/</link>
+    <link>http://gobo.tv/tags/vfx/</link>
     <description>Recent content in Vfx on GOBO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/vfx/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gobo.tv/tags/vfx/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>REEL VFX 2015</title>
-      <link>/work/reelvfx2015/</link>
+      <link>http://gobo.tv/work/reelvfx2015/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/work/reelvfx2015/</guid>
+      <guid>http://gobo.tv/work/reelvfx2015/</guid>
       <description>Orden de trabajos, nombre y productora:
 00:03 Es Madrid / La Huella FX
 00:15 Libertad / Oxes Multimedia
@@ -33,136 +33,136 @@
     
     <item>
       <title>Ayto. Madrid</title>
-      <link>/work/ayto.madrid/</link>
+      <link>http://gobo.tv/work/ayto.madrid/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/ayto.madrid/</guid>
+      <guid>http://gobo.tv/work/ayto.madrid/</guid>
       <description>Freelance 2D compositor, 3D trails en Houdini</description>
     </item>
     
     <item>
       <title>Chevrolet Seleccion</title>
-      <link>/work/chevroletseleccion/</link>
+      <link>http://gobo.tv/work/chevroletseleccion/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/chevroletseleccion/</guid>
+      <guid>http://gobo.tv/work/chevroletseleccion/</guid>
       <description>Limpieza, tracking, integración, sustitución de red y etalonaje de los planos.</description>
     </item>
     
     <item>
       <title>Choco Krispies</title>
-      <link>/work/chocokrispies/</link>
+      <link>http://gobo.tv/work/chocokrispies/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/chocokrispies/</guid>
+      <guid>http://gobo.tv/work/chocokrispies/</guid>
       <description>Tracking, composición</description>
     </item>
     
     <item>
       <title>Ciudades Patrimonio</title>
-      <link>/work/ciudadespatrimonio/</link>
+      <link>http://gobo.tv/work/ciudadespatrimonio/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/ciudadespatrimonio/</guid>
+      <guid>http://gobo.tv/work/ciudadespatrimonio/</guid>
       <description>Composición 2D.</description>
     </item>
     
     <item>
       <title>El Corte Inglés</title>
-      <link>/work/elcorteingles/</link>
+      <link>http://gobo.tv/work/elcorteingles/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/elcorteingles/</guid>
+      <guid>http://gobo.tv/work/elcorteingles/</guid>
       <description>Composición, roto, keying.</description>
     </item>
     
     <item>
       <title>Expo Zaragoza</title>
-      <link>/work/expozaragoza/</link>
+      <link>http://gobo.tv/work/expozaragoza/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/expozaragoza/</guid>
+      <guid>http://gobo.tv/work/expozaragoza/</guid>
       <description>Tracking 3D, limpieza de planos, integración.</description>
     </item>
     
     <item>
       <title>Gas Natural</title>
-      <link>/work/gasnatural/</link>
+      <link>http://gobo.tv/work/gasnatural/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/gasnatural/</guid>
+      <guid>http://gobo.tv/work/gasnatural/</guid>
       <description>Composición 2D.</description>
     </item>
     
     <item>
       <title>La Hora Fria</title>
-      <link>/work/lahorafria/</link>
+      <link>http://gobo.tv/work/lahorafria/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/lahorafria/</guid>
+      <guid>http://gobo.tv/work/lahorafria/</guid>
       <description>Integración de 3D /Fume del departamento 3D. keying, clean, efectos y correción de color.</description>
     </item>
     
     <item>
       <title>Leche Pascual</title>
-      <link>/work/lechepascual/</link>
+      <link>http://gobo.tv/work/lechepascual/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/lechepascual/</guid>
+      <guid>http://gobo.tv/work/lechepascual/</guid>
       <description>Integración de modelo 3D, keying, clean y correción de color.</description>
     </item>
     
     <item>
       <title>Locatel</title>
-      <link>/work/locatel/</link>
+      <link>http://gobo.tv/work/locatel/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/locatel/</guid>
+      <guid>http://gobo.tv/work/locatel/</guid>
       <description>Tracking, integración 2D sobre imagen.</description>
     </item>
     
     <item>
       <title>Predial</title>
-      <link>/work/predial/</link>
+      <link>http://gobo.tv/work/predial/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/predial/</guid>
+      <guid>http://gobo.tv/work/predial/</guid>
       <description>Integración / tracking sobre imagen.</description>
     </item>
     
     <item>
       <title>Seguros Libertad</title>
-      <link>/work/seguroslibertad/</link>
+      <link>http://gobo.tv/work/seguroslibertad/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/seguroslibertad/</guid>
+      <guid>http://gobo.tv/work/seguroslibertad/</guid>
       <description>Track, limpieza e integración de nuevos logotipos.</description>
     </item>
     
     <item>
       <title>Tarjetas Optimismo</title>
-      <link>/work/tarjetasoptimismo/</link>
+      <link>http://gobo.tv/work/tarjetasoptimismo/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/tarjetasoptimismo/</guid>
+      <guid>http://gobo.tv/work/tarjetasoptimismo/</guid>
       <description>Tracking e integración sobre croma.</description>
     </item>
     
     <item>
       <title>Tron Legacy</title>
-      <link>/work/tronlegacy/</link>
+      <link>http://gobo.tv/work/tronlegacy/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/tronlegacy/</guid>
+      <guid>http://gobo.tv/work/tronlegacy/</guid>
       <description>Compositor Senior Nuke. Proyecto estereoscópico. 14 planos.</description>
     </item>
     
     <item>
       <title>Vodafone</title>
-      <link>/work/vodafone/</link>
+      <link>http://gobo.tv/work/vodafone/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/work/vodafone/</guid>
+      <guid>http://gobo.tv/work/vodafone/</guid>
       <description>Integración, tracking.</description>
     </item>
     
