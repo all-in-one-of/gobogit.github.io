@@ -1,0 +1,264 @@
+@import url("bootstrap/css/bootstrap.min.css");
+
+/*@import url('https://fonts.googleapis.com/css?family=PT+Mono|Roboto+Mono|Ubuntu+Mono');*/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+html {
+     overflow-y: scroll;
+     background-color: rgb(240,240,240) !important; 
+
+}
+
+body {
+    background-color: transparent;
+            margin-left:0px;
+            margin-right:0px;
+     padding-left:0px;
+    
+     padding-right:0px;
+}
+
+.container-fluid {
+            margin-left:0px;
+            margin-right:0px;
+     padding-left:0px;
+    
+     padding-right:0px;
+}
+
+.row {
+
+    padding-left:50px;
+    padding-right:50px;
+    max-width: 950px;
+    margin: 0 auto;
+}
+    
+div {
+    /*font-family:  consolas;*/
+     font-family: 'Roboto Mono', monospace;
+   /*font-family: 'PT Mono', monospace;
+    font-family: 'Ubuntu Mono', monospace;*/
+
+
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+
+    color: rgb(80,80,80) !important;
+
+}
+
+.logo {
+
+    margin-right:20px;
+
+}
+
+
+h1 {
+    color: rgb(60,60,60) !important;
+    font-size: 5.5em !important;
+
+    font-weight: 600 !important;
+    text-align: center;
+    margin-bottom: 35px;
+
+}
+
+.borde {
+    color:white;
+    
+}
+
+h2 {
+    margin-top:35px;
+    color: black !important;
+    font-size: 2.0em !important;
+    font-weight: 300 !important;
+}
+
+
+h5 {
+    color: black  !important;
+    font-size: 1.5em !important;
+    margin-bottom:40px;
+
+}
+
+a, a:visited, a:active   {
+    color: gray !important;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black !important;
+    text-decoration: underline;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+.anav a, .anav a:visited, .anav a:active {
+    color: white !important;
+    text-decoration: underline;
+}
+.anav a:hover {
+    color: black!important;
+    text-decoration: underline;
+}
+
+
+
+.feed {
+    margin-top: -8px;
+    margin-bottom: 40px;
+}
+
+.thumb {
+    -webkit-filter: grayscale(1);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    max-width: 80%;
+}
+
+#imgyo {
+    -webkit-filter: grayscale(1);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.thumb:hover {
+    -webkit-filter: grayscale(0.6);
+    -webkit-filter: grayscale(60%);
+    filter: grayscale(60%);
+}
+
+.imglistado{
+   max-width: 20%
+}
+
+
+#footer {   
+    padding-top:20px;
+    margin-top:100px;
+    height:200px;
+    border-top:1px dotted black;    
+}
+
+.tags {
+     
+    margin-bottom:60px;
+
+}
+
+.navbar {
+    background-color: transparent;
+    color: #eef;
+    min-height: 80px;
+    padding-left:20px;
+}
+
+
+
+nav.scroll {
+  background:rgb(240,240,240);
+  
+}
+
+nav {
+      transition: background-color 0.4s ease-out;
+}
+
+
+.cabecera {
+    height:300px; 
+    padding-top: 100px;
+    text-align:center;
+   
+    
+    background: white; 
+    background: -webkit-linear-gradient(white, rgb(230,230,230));
+    background: -o-linear-gradient(white, rgb(230,230,230)); 
+    background: -moz-linear-gradient(white, rgb(230,230,230));
+    background: linear-gradient(rgb(17,225,189), rgb(240,240,240)); 
+
+/*rgb(17,225,189)*/
+}
+
+section {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+}
+
+section iframe,
+section object,
+section embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.highlight {
+   background-color: gray !important;
+}
+
+/* h3 {
+    color: rgb(60,60,60) !important;
+    padding-top:10px;
+    padding-bottom:15px;
+    text-align:left;
+    font-family:  'Nunito Sans', sans-serif;
+}
+
+.iconos-social a {
+  color: rgb(160,160,160) !important;
+}
+
+a, a:visited, a:active , .nav-link,   {
+
+    color: black !important;
+  
+}
+a:hover, .nav-link:hover{
+
+   text-decoration: line-through !important;
+}
+
+.nav-link:hover {
+    -webkit-filter: grayscale(0.4);
+    -webkit-filter: grayscale(40%);
+    filter: grayscale(40%);
+}
+
+
+.badge-primary {
+    background-color: rgb(200,200,200) !important;
+    color:black !important;
+    min-width:80px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .nav-item.show .nav-link {
+    cursor: pointer !important;
+    background-color:rgb(200,200,200) !important;
+}*/
+
+@media (min-width: 768px) { 
+    .social {
+        text-align: right;
+    }
+
+}
+
+@media (max-width: 768px) { 
+    .social {
+        text-align: left;
+    }
+}
