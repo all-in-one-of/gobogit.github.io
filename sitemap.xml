@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://gobo.tv/blog/2017-08-24-semana34/</loc>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gobo.tv/blog/2017-08-12-redweb/</loc>
     <lastmod>2017-08-22T00:00:00+00:00</lastmod>
   </url>
@@ -284,7 +289,7 @@
   
   <url>
     <loc>http://gobo.tv/blog/</loc>
-    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -301,7 +306,7 @@
   
   <url>
     <loc>http://gobo.tv/categories/feed/</loc>
-    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -319,13 +324,13 @@
   
   <url>
     <loc>http://gobo.tv/tags/personal/</loc>
-    <lastmod>2017-08-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gobo.tv/tags/profesional/</loc>
-    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
