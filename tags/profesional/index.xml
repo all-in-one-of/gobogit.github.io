@@ -6,10 +6,21 @@
     <description>Recent content in Profesional on GOBO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gobo.tv/tags/profesional/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blackmagic Fusion 9 - VR</title>
+      <link>http://gobo.tv/blog/2017-09-11-fusionvr/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/blog/2017-09-11-fusionvr/</guid>
+      <description>&lt;p&gt;Si hace unos posts hablábamos sobre los programas que nos permitían editar material grabado en 360º y generar contenido en formato VR, hoy estamos de enhorabuena, porque la última versión de Blackmagic Fusion introduce nuevas herramientas para componer y crear este tipo de material.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Semana 34 &#39;17</title>

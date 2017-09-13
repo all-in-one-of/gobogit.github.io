@@ -114,7 +114,12 @@ a:hover {
 
 .imglistado{ 
     max-width: 35%;  
-    filter: invert(90%) brightness(145%) grayscale(90%);
+    filter: invert(90%) brightness(130%) grayscale(90%);
+    }
+
+.imgPost{ 
+    filter: brightness(120%) grayscale(20%);
+    padding: 20px 0px 20px 0px;
     }
 
 .imgWork {
