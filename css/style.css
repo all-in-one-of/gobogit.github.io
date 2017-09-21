@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 html {
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
     background-color: rgb(240,240,240) !important; 
 }
 
@@ -33,9 +33,9 @@ div {
     /*font-family: 'PT Mono', monospace;
     font-family: 'Ubuntu Mono', monospace;*/
 
-    font-size: 15px;
+    font-size: .94em;
     font-weight: 100;
-    color: rgb(80,80,80) !important;
+    color: rgb(60,60,60) !important;
 }
 
 .logo { margin-right:20px; }
@@ -57,10 +57,18 @@ h2 {
     font-weight: 300 !important;
 }
 
+h3 {
+    margin:25px 0px 25px 0px;
+    color: black !important;
+    font-size: 2.0em !important;
+    font-weight: 300 !important;
+}
+
+
 h5 {
     color: black  !important;
     font-size: 1.5em !important;
-    margin-bottom:40px;
+    margin-bottom:10px;
 }
 
 a, a:visited, a:active   {
@@ -114,12 +122,13 @@ a:hover {
 
 .imglistado{ 
     max-width: 35%;  
-    filter: invert(90%) brightness(130%) grayscale(90%);
     }
 
 .imgPost{ 
     filter: brightness(120%) grayscale(20%);
     padding: 20px 0px 20px 0px;
+
+    cursor: pointer;
     }
 
 .imgWork {
@@ -186,6 +195,46 @@ section embed {
 
 .iconos-social a {
   color: rgb(17,225,189) !important;
+}
+
+.modal-dialog {
+  min-width: 100%;
+  height: auto;
+  margin: 0px auto;
+  padding: 0;
+}
+
+.modal-title {
+    text-align:center;
+}
+
+.modal-content {
+  height: auto;
+  min-height: 100%;
+  border-radius: 0;
+  background-color: rgba(20,20,20,1);
+}
+
+.modal-header {
+
+    border-bottom: 0px solid black;
+}
+
+.modal-header h5 {
+    color: white !important;
+    text-align:center !important;
+}
+
+.zoom {
+   position: relative;
+}
+
+.zoom .ico {
+    width: 20px;
+    height: auto;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
 }
 
 @media (min-width: 768px) { 

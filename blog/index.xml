@@ -6,10 +6,23 @@
     <description>Recent content in Blogs on GOBO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gobo.tv/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Houdini Displacements</title>
+      <link>http://gobo.tv/blog/2017-09-19-houdini-displacements/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/blog/2017-09-19-houdini-displacements/</guid>
+      <description>&lt;p&gt;Hola de nuevo! Éste post es un resumen de una semana en la que en tiempos libres he re-visitado las posibilidades de modificación de la geometría mediante texturas a través de la herramienta Displacement.&lt;/p&gt;
+
+&lt;p&gt;En  nuestro caso no vamos a utilizar en los ejemplos archivos de imágenes, sino nodos tipo noise, los cuales mezclaremos y modificaremos para conseguir patrones y tipos de desplazamiento diferentes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Blackmagic Fusion 9 - VR</title>
