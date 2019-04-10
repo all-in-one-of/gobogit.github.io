@@ -6,7 +6,7 @@
     <description>Recent content on GOBO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gobo.tv/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>REEL CGI 2015</title>
       <link>http://gobo.tv/work/reelcgi2015/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/reelcgi2015/</guid>
       <description>Orden de trabajos, nombre y productora:
@@ -35,7 +35,7 @@
     <item>
       <title>REEL VFX 2015</title>
       <link>http://gobo.tv/work/reelvfx2015/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/reelvfx2015/</guid>
       <description>Orden de trabajos, nombre y productora:
@@ -50,6 +50,51 @@
 00:38 Peugeot / La Huella FX
 00:40 TRON: Legacy / Ollin VFX
 01:12 La Hora Fría / La Huella FX</description>
+    </item>
+    
+    <item>
+      <title>Esl Opener</title>
+      <link>http://gobo.tv/work/eslopener/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/eslopener/</guid>
+      <description>Animación 3D.</description>
+    </item>
+    
+    <item>
+      <title>Esl Masters</title>
+      <link>http://gobo.tv/work/eslmasters/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/eslmasters/</guid>
+      <description>Animación 3D.</description>
+    </item>
+    
+    <item>
+      <title>Propuestas logos NPL</title>
+      <link>http://gobo.tv/work/propuestaslogos/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/propuestaslogos/</guid>
+      <description>Diseño y 3D para propuesta de logos NPL</description>
+    </item>
+    
+    <item>
+      <title>Logo animado GameTV</title>
+      <link>http://gobo.tv/work/logogametv/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/logogametv/</guid>
+      <description>Animación 2D.</description>
+    </item>
+    
+    <item>
+      <title>Vodafone Automotive</title>
+      <link>http://gobo.tv/work/vodafoneautomotive/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/vodafoneautomotive/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -351,7 +396,7 @@ Nos muestra en cambio, y mediante un lenguaje muy sencillo de entender a través
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/betmaster/</guid>
-      <description>Dieño, modelado, animación render. Edición.</description>
+      <description>Diseño, modelado, animación render. Edición.</description>
     </item>
     
     <item>
@@ -409,30 +454,12 @@ Nos muestra en cambio, y mediante un lenguaje muy sencillo de entender a través
     </item>
     
     <item>
-      <title>Expo Zaragoza</title>
-      <link>http://gobo.tv/work/expozaragoza/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://gobo.tv/work/expozaragoza/</guid>
-      <description>Tracking 3D, limpieza de planos, integración.</description>
-    </item>
-    
-    <item>
       <title>Game TV Promo</title>
       <link>http://gobo.tv/work/gametvpromo/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/gametvpromo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Gas Natural</title>
-      <link>http://gobo.tv/work/gasnatural/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://gobo.tv/work/gasnatural/</guid>
-      <description>Composición 2D.</description>
     </item>
     
     <item>
@@ -571,15 +598,6 @@ Nos muestra en cambio, y mediante un lenguaje muy sencillo de entender a través
     </item>
     
     <item>
-      <title>Vodafone Automotive</title>
-      <link>http://gobo.tv/work/vodafoneautomotive/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://gobo.tv/work/vodafoneautomotive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vodafone M2M</title>
       <link>http://gobo.tv/work/vodafonem2m/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
@@ -625,6 +643,24 @@ Nos muestra en cambio, y mediante un lenguaje muy sencillo de entender a través
 Nunca pensé que mi faceta de blogger fuera a proporcionar abundante-actualizada información de lo que sucede en el estudio, aunque tengo que reconocer que cuatro meses son demasiados, así que vamos a ponernos al día.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Expo Zaragoza</title>
+      <link>http://gobo.tv/work/expozaragoza/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/expozaragoza/</guid>
+      <description>Tracking 3D, limpieza de planos, integración.</description>
+    </item>
+    
+    <item>
+      <title>Gas Natural</title>
+      <link>http://gobo.tv/work/gasnatural/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/gasnatural/</guid>
+      <description>Composición 2D.</description>
     </item>
     
     <item>

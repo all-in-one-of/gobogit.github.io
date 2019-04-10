@@ -6,7 +6,7 @@
     <description>Recent content in Vfx on GOBO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gobo.tv/tags/vfx/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>REEL VFX 2015</title>
       <link>http://gobo.tv/work/reelvfx2015/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/reelvfx2015/</guid>
       <description>Orden de trabajos, nombre y productora:
@@ -74,24 +74,6 @@
       
       <guid>http://gobo.tv/work/elcorteingles/</guid>
       <description>Composición, roto, keying.</description>
-    </item>
-    
-    <item>
-      <title>Expo Zaragoza</title>
-      <link>http://gobo.tv/work/expozaragoza/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://gobo.tv/work/expozaragoza/</guid>
-      <description>Tracking 3D, limpieza de planos, integración.</description>
-    </item>
-    
-    <item>
-      <title>Gas Natural</title>
-      <link>http://gobo.tv/work/gasnatural/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://gobo.tv/work/gasnatural/</guid>
-      <description>Composición 2D.</description>
     </item>
     
     <item>
@@ -164,6 +146,24 @@
       
       <guid>http://gobo.tv/work/vodafone/</guid>
       <description>Integración, tracking.</description>
+    </item>
+    
+    <item>
+      <title>Expo Zaragoza</title>
+      <link>http://gobo.tv/work/expozaragoza/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/expozaragoza/</guid>
+      <description>Tracking 3D, limpieza de planos, integración.</description>
+    </item>
+    
+    <item>
+      <title>Gas Natural</title>
+      <link>http://gobo.tv/work/gasnatural/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/gasnatural/</guid>
+      <description>Composición 2D.</description>
     </item>
     
   </channel>

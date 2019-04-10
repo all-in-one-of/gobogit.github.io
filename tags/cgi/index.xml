@@ -6,7 +6,7 @@
     <description>Recent content in Cgi on GOBO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gobo.tv/tags/cgi/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>REEL CGI 2015</title>
       <link>http://gobo.tv/work/reelcgi2015/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/reelcgi2015/</guid>
       <description>Orden de trabajos, nombre y productora:
@@ -33,12 +33,57 @@
     </item>
     
     <item>
+      <title>Esl Opener</title>
+      <link>http://gobo.tv/work/eslopener/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/eslopener/</guid>
+      <description>Animación 3D.</description>
+    </item>
+    
+    <item>
+      <title>Esl Masters</title>
+      <link>http://gobo.tv/work/eslmasters/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/eslmasters/</guid>
+      <description>Animación 3D.</description>
+    </item>
+    
+    <item>
+      <title>Propuestas logos NPL</title>
+      <link>http://gobo.tv/work/propuestaslogos/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/propuestaslogos/</guid>
+      <description>Diseño y 3D para propuesta de logos NPL</description>
+    </item>
+    
+    <item>
+      <title>Logo animado GameTV</title>
+      <link>http://gobo.tv/work/logogametv/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/logogametv/</guid>
+      <description>Animación 2D.</description>
+    </item>
+    
+    <item>
+      <title>Vodafone Automotive</title>
+      <link>http://gobo.tv/work/vodafoneautomotive/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://gobo.tv/work/vodafoneautomotive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Betmaster</title>
       <link>http://gobo.tv/work/betmaster/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/betmaster/</guid>
-      <description>Dieño, modelado, animación render. Edición.</description>
+      <description>Diseño, modelado, animación render. Edición.</description>
     </item>
     
     <item>
@@ -110,15 +155,6 @@
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://gobo.tv/work/teknisetplaka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vodafone Automotive</title>
-      <link>http://gobo.tv/work/vodafoneautomotive/</link>
-      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://gobo.tv/work/vodafoneautomotive/</guid>
       <description></description>
     </item>
     
